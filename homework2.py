@@ -1,0 +1,6 @@
+done_homework = ('всего задач : 12, ')
+spent_time = ('затрачено часов : 1.5, ')
+name = ('Курс :   Python, ')
+hour = (1.5 / 12)
+time_for_each_task = ('среднее время выполнения : ')
+print(name, done_homework, spent_time, time_for_each_task, hour)
